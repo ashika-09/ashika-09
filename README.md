@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
 <h1 align="center">Hi 👋, I'm Ashika Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Hello%20Dribbble!&utm_medium=Social_Share">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/25043962/file/original-ca87df75747127e38c2049c72e374e5b.gif"/>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
